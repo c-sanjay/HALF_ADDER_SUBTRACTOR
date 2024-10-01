@@ -89,4 +89,4 @@ endmodule
 
 
 **Result:**
-The code is excecuted successfully.
+Thus to design half adder and half subtractor circuit and its truth table in Quartus using Verilog programming is verified successfully.
